@@ -13,5 +13,8 @@ public class Solution {
         return a*a*a;
     }
 
-    //напишіть тут ваш код
+    public static long ninthDegree(long a){
+        return cube(cube(a));
+    }
+
 }
