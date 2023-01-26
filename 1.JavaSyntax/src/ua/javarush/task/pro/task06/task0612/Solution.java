@@ -11,11 +11,13 @@ public class Solution {
     }
 
     public static void printSqrt(int[] array) {
-        String elementSqrt = "Квадратний корінь із числа ";
-        for (int i = 0; i < array.length; i++) {
+        String elementSqrtString = "Квадратний корінь із числа ";
+        for (int i = 0; i < array.length; i++)
+
+        {
             int element = array[i];
             double elementSqrt = Math.sqrt(element);
-            System.out.println(elementSqrt + element + " дорівнює " + elementSqrt);
+            System.out.println(elementSqrtString + element + " дорівнює " + elementSqrt);
         }
     }
 }
