@@ -1548,3 +1548,17 @@ java.net.UnknownHostException: javarush.com
 2023-01-27 08:27:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2023-01-27 08:27:11 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2023-01-27 08:27:11 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Program Files/jdk-19.0.1/JavaRushTasks/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0614
+2023-01-27 08:30:34 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 08:30:34 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-27 08:30:34 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-27 08:31:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 08:31:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-27 08:31:22 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-27 08:32:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 08:32:35 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-27 08:32:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-27 08:32:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-27 08:34:42 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-27 08:34:43 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-01-27 08:34:44 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-01-27 08:34:44 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Program Files/jdk-19.0.1/JavaRushTasks/1.JavaSyntax/src/ua/javarush/task/pro/task06/task0615
