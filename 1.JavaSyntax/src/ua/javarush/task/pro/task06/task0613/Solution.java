@@ -17,6 +17,6 @@ public class Solution {
 
     public static void printCityPopulation(String city, double population){
         System.out.println("Населення міста " + city + " становить " + population + " млн осіб.");
-        System.out.println("А тимчасом у найбільш населеному місті " + city + " мешкає " + population + " млн осіб.");
+        System.out.println("А тимчасом у найбільш населеному місті " + Solution.city + " мешкає " + Solution.population + " млн осіб.");
     }
 }
