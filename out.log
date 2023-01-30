@@ -1653,3 +1653,8 @@ java.net.UnknownHostException: javarush.com
 2023-01-30 15:42:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2023-01-30 15:42:45 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2023-01-30 15:42:45 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Program Files/jdk-19.0.1/JavaRushTasks/1.JavaSyntax/src/ua/javarush/task/pro/task07/task0708
+2023-01-30 15:43:15 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-30 15:43:28 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-01-30 15:43:28 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-01-30 15:43:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-01-30 15:43:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
