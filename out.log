@@ -1742,3 +1742,11 @@ java.net.UnknownHostException: javarush.com
 2023-02-04 06:49:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-02-04 06:49:13 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2023-02-04 06:49:13 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-07 09:44:25 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-02-07 09:44:25 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-02-07 09:44:25 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-02-07 09:44:25 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-02-07 09:44:25 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-02-07 09:44:25 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-02-07 09:44:25 INFO  ApacheHttpClient.startGA(36) - GAService started.
