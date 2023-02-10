@@ -11,12 +11,12 @@ public class Solution {
         String jdk13 = "jdk-13";
         System.out.println(changePath(path, jdk13));
     }
-// what is wrong?
-    public static String changePath(String path, String jdk) {
-       int firstWay = path.indexOf("jdk");
-       int lastWay = path.lastIndexOf("/" , firstWay);
-       String onejdk = path.substring(firstWay, lastWay);
 
-        return path.replaceFirst(onejdk, jdk);
+    public static String changePath(String path, String jdk) {
+        int firstWay = path.indexOf("jdk");
+        int lastWay = path.indexOf("/", firstWay);
+        String oldJdk = path.substring(firstWay, lastWay);
+
+        return path.replace(oldJdk, jdk);
     }
 }
