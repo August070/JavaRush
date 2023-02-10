@@ -12,7 +12,9 @@ public class Solution {
     }
 
     public static String reverseString(String string) {
-        //напишіть тут ваш код
-        return null;
+        StringBuilder builder = new StringBuilder(string);
+        String result = builder.toString();
+        System.out.println(result);
+        return builder.reverse().toString();
     }
 }
