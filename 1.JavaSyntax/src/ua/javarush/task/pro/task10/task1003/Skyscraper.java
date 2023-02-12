@@ -8,7 +8,18 @@ public class Skyscraper {
     private int floorsCount;
     private String developer;
 
-    //напишіть тут ваш код
+    public  Skyscraper() {
+        this.floorsCount = 5;
+
+        this.developer = "JavaRushDevelopment";
+
+    }
+    public Skyscraper( int floorsCount, String developer) {
+
+        this.floorsCount = floorsCount;
+        this.developer = developer;
+
+    }
 
     public static void main(String[] args) {
         Skyscraper skyscraper = new Skyscraper();
