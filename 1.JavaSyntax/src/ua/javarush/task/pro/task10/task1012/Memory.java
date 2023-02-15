@@ -16,6 +16,16 @@ public class Memory {
     }
 
     public static void executeDefragmentation(String[] array) {
-        //напишіть тут ваш код
+        String[] wet = new String[array.length];
+        int a = 0;
+        for (int i = 0; i<array.length; i++){
+            if (array[i] == null){
+                wet[a]=array[i];
+                a++;
+            }
+        }
+        for (int i = 0; i< array.length; i++){
+            array[i] = wet[i];
+        }
     }
 }
