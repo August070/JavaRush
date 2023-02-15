@@ -11,7 +11,8 @@ public class Hedgehog {
     }
 
     public static void main(String[] args) {
-        //напишіть тут ваш код
+        Apple apple = new Apple();
+        new Hedgehog().eat(apple);
     }
 
     public static class Apple {

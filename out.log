@@ -2475,3 +2475,9 @@ java.lang.NullPointerException: Cannot invoke "com.intellij.openapi.vfs.VirtualF
 2023-02-15 10:06:10 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-02-15 10:06:11 INFO  ApacheHttpClient.completed(32) - responseCode = 200
 2023-02-15 10:06:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-15 10:07:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-15 10:07:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-02-15 10:07:26 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-02-15 10:07:26 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Program Files/jdk-19.0.1/JavaRushTasks/1.JavaSyntax/src/ua/javarush/task/pro/task10/task1015
+2023-02-15 10:07:27 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-15 10:07:27 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
