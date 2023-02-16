@@ -19,7 +19,7 @@ public class Memory {
         String[] wet = new String[array.length];
         int a = 0;
         for (int i = 0; i<array.length; i++){
-            if (array[i] == null){
+            if (array[i] != null){
                 wet[a]=array[i];
                 a++;
             }
