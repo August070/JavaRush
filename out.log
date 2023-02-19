@@ -2604,3 +2604,45 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-02-16 09:39:44 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
 2023-02-16 09:39:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
 2023-02-16 09:39:48 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Program Files/jdk-19.0.1/JavaRushTasks/1.JavaSyntax/src/ua/javarush/task/pro/task10/task1016
+2023-02-16 09:47:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:47:32 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:47:33 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:48:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:48:23 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:48:24 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:53:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:53:20 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:53:20 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:54:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:54:04 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:54:04 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:54:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:54:28 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:54:29 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:55:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:55:07 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:55:08 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:55:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:55:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:55:53 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:56:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:56:18 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:56:19 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:56:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-16 09:56:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:56:59 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2023-02-16 09:56:59 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:00 INFO  ProjectStartupHandler.projectClosing(155) - ---------- Project closed ----------
+
+2023-02-16 09:59:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:01 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2023-02-16 09:59:04 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
