@@ -2646,3 +2646,8 @@ com.homework.plugin.analytics.PluginWarningException: warning
 2023-02-16 09:59:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-02-16 09:59:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
 2023-02-16 09:59:04 INFO  PluginProjectService.dispose(41) - PluginProjectService for disposed.
+2023-02-19 19:21:16 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-02-19 19:21:16 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-02-19 19:21:16 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-02-19 19:21:16 INFO  ApacheHttpClient.startGA(36) - GAService started.
