@@ -15,14 +15,34 @@ public class Solution {
     }
 
     public static int countDigits(String string) {
-        //напишіть тут ваш код
+
+            int countDigits = 0;
+            for (int i = 0; i < string.length(); i++) {
+                if (Character.isDigit(string.charAt(i))){
+                    countDigits++;
+            }
+        }
+        return countDigits;
     }
 
     public static int countLetters(String string) {
-        //напишіть тут ваш код
+        int countLetters = 0;
+        for (int i = 0; i < string.length(); i++) {
+            if (Character.isLetter(string.charAt(i))){
+                countLetters++;
+            }
+        }
+        return countLetters;
     }
 
     public static int countSpaces(String string) {
-        //напишіть тут ваш код
+        int countSpaces = 0;
+        for (int i = 0; i < string.length(); i++) {
+            if (Character.isSpace(string.charAt(i))){
+                countSpaces++;
+            }
+
+        }
+        return countSpaces;
     }
 }
