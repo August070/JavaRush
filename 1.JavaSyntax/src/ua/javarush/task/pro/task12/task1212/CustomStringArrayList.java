@@ -25,7 +25,9 @@ public class CustomStringArrayList {
     }
 
     private void grow() {
-        //напишіть тут ваш код
-    }
+        capacity = (int) (capacity * 1.5);
+        System.arraycopy(elements, 0, capacity, 0, elements.length);
+            return elements;
 
+    }
 }
